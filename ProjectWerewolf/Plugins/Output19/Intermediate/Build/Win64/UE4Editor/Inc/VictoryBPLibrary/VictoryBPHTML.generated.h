@@ -13,7 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VICTORYBPLIBRARY_VictoryBPHTML_generated_h
 
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_RPC_WRAPPERS \
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execVictoryHTML5_SetCursorVisible) \
 	{ \
@@ -33,7 +33,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execVictoryHTML5_SetCursorVisible) \
 	{ \
@@ -53,7 +53,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 	}
 
 
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_INCLASS_NO_PURE_DECLS \
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUVictoryBPHTML(); \
 	friend VICTORYBPLIBRARY_API class UClass* Z_Construct_UClass_UVictoryBPHTML(); \
@@ -63,7 +63,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_INCLASS \
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_INCLASS \
 private: \
 	static void StaticRegisterNativesUVictoryBPHTML(); \
 	friend VICTORYBPLIBRARY_API class UClass* Z_Construct_UClass_UVictoryBPHTML(); \
@@ -73,7 +73,7 @@ public: \
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_STANDARD_CONSTRUCTORS \
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVictoryBPHTML(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVictoryBPHTML) \
@@ -86,7 +86,7 @@ private: \
 public:
 
 
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_ENHANCED_CONSTRUCTORS \
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UVictoryBPHTML(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()) : Super(ObjectInitializer) { }; \
 private: \
@@ -99,32 +99,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UVictoryBPHTML); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UVictoryBPHTML)
 
 
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_PRIVATE_PROPERTY_OFFSET
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_20_PROLOG
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_GENERATED_BODY_LEGACY \
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_PRIVATE_PROPERTY_OFFSET
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_20_PROLOG
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_RPC_WRAPPERS \
-	HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_INCLASS \
-	HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_STANDARD_CONSTRUCTORS \
+	ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_PRIVATE_PROPERTY_OFFSET \
+	ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_RPC_WRAPPERS \
+	ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_INCLASS \
+	ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_GENERATED_BODY \
+#define ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_PRIVATE_PROPERTY_OFFSET \
-	HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
-	HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_INCLASS_NO_PURE_DECLS \
-	HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_ENHANCED_CONSTRUCTORS \
+	ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_PRIVATE_PROPERTY_OFFSET \
+	ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_RPC_WRAPPERS_NO_PURE_DECLS \
+	ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_INCLASS_NO_PURE_DECLS \
+	ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h_23_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID HostProject_Plugins_VictoryBPLibrary_Source_VictoryBPLibrary_Public_VictoryBPHTML_h
+#define CURRENT_FILE_ID ProjectWerewolf_Plugins_Output19_Source_VictoryBPLibrary_Public_VictoryBPHTML_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
