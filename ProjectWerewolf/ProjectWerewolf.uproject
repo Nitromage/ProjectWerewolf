@@ -3,10 +3,25 @@
 	"EngineAssociation": "4.19",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "ProjectWerewolf",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
+		},
+		{
+			"Name": "VictoryBPLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "http://www.ue4code.com"
 		}
 	]
 }
